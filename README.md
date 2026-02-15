@@ -8,3 +8,6 @@ My collection of fonts in Google Fonts that I consider good.
 2. IBM Plex Mono: https://fonts.google.com/specimen/IBM+Plex+Mono
 3. IBM Plex Serif: https://fonts.google.com/specimen/IBM+Plex+Serif
 4. IBM Plex Sans Condensed: https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed
+
+## Support & Advice
+The only way to get support for all my projects is by [becoming a member on Patreon](https://patreon.com/getsupport). Value for value.
